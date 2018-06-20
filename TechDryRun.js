@@ -1,8 +1,5 @@
 //Tech Dry Run
 
 var hrr18 = {
-  name: 'Chris Malcolm'
+  name: "If you're reading this it's already too late"
 }
-
-
-
